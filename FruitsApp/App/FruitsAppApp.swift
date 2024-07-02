@@ -9,7 +9,7 @@ import SwiftUI
 
 @main
 struct FruitsAppApp: App {
-    @AppStorage("isOnboarding") var isOnboarding: Bool = true
+    @AppStorage("isOnboarding") var isOnboarding: Bool = true 
     
     var body: some Scene {
         WindowGroup {
