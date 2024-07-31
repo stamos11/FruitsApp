@@ -20,6 +20,7 @@
 		3EC8E5B42C38706400D3A418 /* FruitDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3EC8E5B32C38706400D3A418 /* FruitDetailView.swift */; };
 		3EC8E5B62C38753000D3A418 /* FruitHeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3EC8E5B52C38753000D3A418 /* FruitHeaderView.swift */; };
 		3EC8E5B82C38795D00D3A418 /* SourceLinkView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3EC8E5B72C38795D00D3A418 /* SourceLinkView.swift */; };
+		3EFEBC242C5AAB8600CA77F2 /* FruitNutrientView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3EFEBC232C5AAB8600CA77F2 /* FruitNutrientView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -37,6 +38,7 @@
 		3EC8E5B32C38706400D3A418 /* FruitDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FruitDetailView.swift; sourceTree = "<group>"; };
 		3EC8E5B52C38753000D3A418 /* FruitHeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FruitHeaderView.swift; sourceTree = "<group>"; };
 		3EC8E5B72C38795D00D3A418 /* SourceLinkView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SourceLinkView.swift; sourceTree = "<group>"; };
+		3EFEBC232C5AAB8600CA77F2 /* FruitNutrientView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FruitNutrientView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -122,6 +124,7 @@
 				3E2A65AD2C3451D800F2C3CB /* FruitsRowView.swift */,
 				3EC8E5B52C38753000D3A418 /* FruitHeaderView.swift */,
 				3EC8E5B72C38795D00D3A418 /* SourceLinkView.swift */,
+				3EFEBC232C5AAB8600CA77F2 /* FruitNutrientView.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -204,6 +207,7 @@
 				3EBF819E2C2CAFA6005EBB4D /* OnboardingView.swift in Sources */,
 				3EB8B5E62C2DCBBD00D9782F /* FruitModel.swift in Sources */,
 				3EC8E5B62C38753000D3A418 /* FruitHeaderView.swift in Sources */,
+				3EFEBC242C5AAB8600CA77F2 /* FruitNutrientView.swift in Sources */,
 				3E2A65AE2C3451D800F2C3CB /* FruitsRowView.swift in Sources */,
 				3EBF81872C2C8FCD005EBB4D /* FruitsAppApp.swift in Sources */,
 				3EC8E5B42C38706400D3A418 /* FruitDetailView.swift in Sources */,
