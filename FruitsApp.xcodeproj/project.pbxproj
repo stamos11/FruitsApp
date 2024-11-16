@@ -21,6 +21,7 @@
 		3EC8E5B62C38753000D3A418 /* FruitHeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3EC8E5B52C38753000D3A418 /* FruitHeaderView.swift */; };
 		3EC8E5B82C38795D00D3A418 /* SourceLinkView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3EC8E5B72C38795D00D3A418 /* SourceLinkView.swift */; };
 		3EFEBC242C5AAB8600CA77F2 /* FruitNutrientView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3EFEBC232C5AAB8600CA77F2 /* FruitNutrientView.swift */; };
+		3EFEBC262C5AB1AD00CA77F2 /* SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3EFEBC252C5AB1AD00CA77F2 /* SettingsView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -39,6 +40,7 @@
 		3EC8E5B52C38753000D3A418 /* FruitHeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FruitHeaderView.swift; sourceTree = "<group>"; };
 		3EC8E5B72C38795D00D3A418 /* SourceLinkView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SourceLinkView.swift; sourceTree = "<group>"; };
 		3EFEBC232C5AAB8600CA77F2 /* FruitNutrientView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FruitNutrientView.swift; sourceTree = "<group>"; };
+		3EFEBC252C5AB1AD00CA77F2 /* SettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -93,6 +95,7 @@
 				3EBF818A2C2C8FCE005EBB4D /* Assets.xcassets */,
 				3EBF818C2C2C8FCE005EBB4D /* Preview Content */,
 				3EBF81972C2C9FAB005EBB4D /* App */,
+				3EFEBC252C5AB1AD00CA77F2 /* SettingsView.swift */,
 			);
 			path = FruitsApp;
 			sourceTree = "<group>";
@@ -211,6 +214,7 @@
 				3E2A65AE2C3451D800F2C3CB /* FruitsRowView.swift in Sources */,
 				3EBF81872C2C8FCD005EBB4D /* FruitsAppApp.swift in Sources */,
 				3EC8E5B42C38706400D3A418 /* FruitDetailView.swift in Sources */,
+				3EFEBC262C5AB1AD00CA77F2 /* SettingsView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
